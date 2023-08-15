@@ -1,5 +1,5 @@
 # <h1 align="center">Hi 👋, I'm Chirag Verma</h1>
-### <h3 align="center">Dedicated web developer focused on creating intuitive websites and applications.<h3><br>
+### <h3 align="center">Dedicated developer focused on creating intuitive websites and applications.<h3><br>
 
 [![](https://visitcount.itsvg.in/api?id=chiragverma11&icon=6&color=6)](https://visitcount.itsvg.in)<br>
 
